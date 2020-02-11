@@ -199,7 +199,7 @@ img::-moz-selection {
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
 
-    color:#001E62
+    color:#D50032
 
 }
 
@@ -1137,6 +1137,10 @@ ul.social-buttons li a {
 
     background-color:#212529
 
+}
+
+.map {
+    height: 30rem;
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
